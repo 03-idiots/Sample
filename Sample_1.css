@@ -1,0 +1,51 @@
+.mediaViewInfo {
+	--web-view-name: Artboard – 1;
+	--web-view-id: Artboard__1;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Artboard__1;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Artboard__1 {
+	position: absolute;
+	width: 430px;
+	height: 631px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Artboard – 1;
+	--web-view-id: Artboard__1;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes  {
+
+
+}
+#Rectangle_2 {
+	fill: rgba(55,39,39,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_2 {
+	position: absolute;
+	overflow: visible;
+	width: 291px;
+	height: 120px;
+	left: 70px;
+	top: 108px;
+	--web-animation: fadein undefineds undefined;
+	--web-action-type: page;
+	--web-action-target: iPhone_14_Pro_Max___2.html;
+	cursor: pointer;
+}
